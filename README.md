@@ -38,11 +38,11 @@
 
 ## Key Features
 
-• Browse foods 
-• Food recommendation
+• Browse foods  
+• Food recommendation  
 • Add food to cart  
-• Select amount of the item
-• Delete food from cart
+• Select amount of the item  
+• Delete food from cart  
 
 
 ## Built With

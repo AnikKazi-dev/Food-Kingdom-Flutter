@@ -13,7 +13,7 @@
 * [Screenshots](#screenshots)
 * [About the Project](#about-the-project)
 * [Key Features](#key-features)
-* [Built With](#build)
+* [Built With](#built-with)
 * [Contact](#contact)
 
 ## Mockup
@@ -33,13 +33,17 @@
 
 ## About the project
 
-* **XXXXXX**: XXX.
-* **XXXX**: XXXXXXXX.
+* **Backend connection**: API
+* 5-6 page app
 
 ## Key Features
 
-* **State management**: Redux, BloC, repository patterns .
-* **Backend connection**: API provider pattern.
+• Browse foods 
+• Food recommendation
+• Add food to cart  
+• Select amount of the item
+• Delete food from cart
+
 
 ## Built With
 
